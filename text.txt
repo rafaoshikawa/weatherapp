@@ -1,0 +1,12 @@
+sunny
+
+Partly cloudy",
+
+Cloudy"
+
+Overcast"
+
+Mist",
+
+Patchy rain possible"
+Patchy snow possible"
